@@ -1,0 +1,5 @@
+bananas 16
+apples 14
+mangos 20
+pears 19
+cherries 12
